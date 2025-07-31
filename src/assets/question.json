@@ -1,0 +1,208 @@
+[
+    {
+      "id": 2,
+      "question": "Quel est mon plus grand regret ?",
+      "options": ["ma vie social plus petit" , "Ne pas avoir stunt assez en école d'ingenieur" , "Ne pas été en couple et être amoureux de cette personne" , "les soirées en école d'ingénieur"],
+      "answer": "ma vie social plus petit" 
+    },
+    {
+      "id": 6,
+      "question": "Quel est l’événement qui a changé ma vie ?",
+      "options": ["Navarro" , "Australie" , "mon école ingénieur" , "Paris Cheer"],
+      "answer": "Australie" 
+    },
+    {
+      "id": 6,
+      "question": "Quel est mon rêve le plus fou ?",
+      "options": ["gagner UCA partner Stunt" , "etre sur le mat" , "faire Gros Skill avec n importe qui" , "sauter en parachute"],
+      "answer": "faire Gros Skill avec n importe qui" 
+    },
+    {
+      "id": 7,
+      "question": "Quel est mon style musical préféré ?",
+      "options": ["Jazz" , "Rock" , "dubstep" , "classic"],
+      "answer": "Rock" 
+    },
+    {
+      "id": 8,
+      "question": "Quelle est ma boisson favorite ?",
+      "options": ["Coca Zeros" , "Ginger beer" , "Spritz" , "La bière"],
+      "answer": "Ginger beer" 
+    },
+    {
+      "id": 8,
+      "question": "Quel est le rêve que je n’ose pas encore réaliser ?",
+      "options": ["Partir en road trip en Asie" , "Monter ma boite" , "pecher du gros (poisson)" ],
+      "answer": "Monter ma boite" 
+    },
+    {
+      "id": 9,
+      "question": "Quelle est la chose qui me fait perdre confiance en moi ?",
+      "options": ["drop un stunt" , "parler anglais" , "se moquer de mes default constament"],
+      "answer": "" 
+    },
+    {
+      "id": 10,
+      "question": "Quel est le compliment qui me touche le plus ?",
+      "options": ["dire que je suis de bon coeur" , "dire que je suis gentil" , "dire que je suis un bon pote"],
+      "answer": "dire que je suis de bon coeur" 
+    },
+    {
+      "id": 11,
+      "question": "Quelle est ma peur la plus profonde ?",
+      "options": ["le noir" , "les eaux profondes" , "la solitude" , "drop"],
+      "answer": "le noir" 
+    },
+    {
+      "id": 11,
+      "question": "Quel est le geste qui me fait me sentir le/la plus aimé(e) ?",
+      "options": ["m'appeler" , "me faire un calin" , "me faire sentir important dans ta vie" , "les gestes de tendresse"],
+      "answer": "me faire sentir important dans ta vie" 
+    },
+    {
+      "id": 12,
+      "question": "Quel est mon endroit préféré pour partir en vacances ?",
+      "options": ["la mer" , "la montagne" , "en Utah pour faire du cheer" , "les worlds"],
+      "answer": "la mer" 
+    },
+    {
+      "id": 12,
+      "question": "Quel est le souvenir d’enfance dont je parle rarement ?",
+      "options": ["la gymnastique enfant" , "la maison en auvergne" , "le ski en famille"],
+      "answer": "la maison en auvergne" 
+    },
+    {
+      "id": 13,
+      "question": "Quel est mon hobby ou passe-temps favori (hors cheer)?",
+      "options": ["regarder des Anime" , "la cuisine" , "le sport" , "coder"],
+      "answer": "la cuisine" 
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la chose que j’ai le plus peur de perdre ?",
+      "options": ["ma virginité" , "mes amis" , "mes skills" , "mon skill de cheer"],
+      "answer": "mes amis" 
+    },
+    {
+      "id": 14,
+      "question": "Quel est mon plus grand espoir pour notre avenir ?",
+      "options": ["le mariage" , "3 enfants" , "apprendre a te connaitre" , "être en couple"],
+      "answer": "apprendre a te connaitre" 
+    },
+    {
+      "id": 15,
+      "question": "Quelle est ma routine matinale ?",
+      "options": ["telephone - pipi - manger" , "douche - pipi - manger" , "pipi - manger - parler"],
+      "answer": "pipi - manger - parler" 
+    },
+    {
+      "id": 15,
+      "question": "Quelle est ma plus grande difficulté dans la vie ?",
+      "options": ["avoir confiance en moi" , "la solitude emotionelle" , "la solitude" , "monter une boite"],
+      "answer": "la solitude emotionelle" 
+    },
+    {
+      "id": 16,
+      "question": "Quel est mon animal préféré ?",
+      "options": ["chien" , "chat" , "poisson" , "cheval"],
+      "answer": "chien" 
+    },
+    {
+      "id": 17,
+      "question": "Quelle est ma plus grande peur concernant notre relation ?",
+      "options": ["que je decouvre que on soit pas fait pour nous deux" , "En decembre juste avant que je rentre tout ce termine" , "tu trouves qq d'autres"],
+      "answer": "En decembre juste avant que je rentre tout ce termine" 
+    },
+    {
+      "id": 18,
+      "question": "Quelle est ma série télé préférée ?",
+      "options": ["Young Sheldon" , "NCIS" , "Lie to me" , "Narutto", "Game of throne"],
+      "answer": "Game of throne" 
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la chose qui me réconforte instantanément ?",
+      "options": ["la nourriture" , "un calin" , "te parler" , "un massage"],
+      "answer": "un calin" 
+    },
+    {
+      "id": 19,
+      "question": "Quel est mon type de vacances idéal (plage, montagne, ville…) ?",
+      "options": ["plage", "montagne", "Ville", "les trois"],
+      "answer": "les trois" 
+    },
+    {
+      "id": 20,
+      "question": "Quelle est la chose qui me rend le plus heureux(se) ?",
+      "options": ["l Amour" , "Daytona" , "une soirée entre pote" ,"une soirée avec toi"],
+      "answer": "Daytona" 
+    },
+    {
+      "id": 21,
+      "question": "Quel est mon signe astrologique ?",
+      "options": ["cancer" , "Capricorn" , "Lion" , "Poisson"],
+      "answer": "Capricorn" 
+    },
+    {
+      "id": 21,
+      "question": "Quel est le moment où je me suis senti(e) le/la plus seul(e) ?",
+      "options": ["A navarro" , "au college", "au lycée" , "en ecole ingénieur"],
+      "answer": "A navarro" 
+    },
+    {
+      "id": 22,
+      "question": "Quelle est ma plus grande ambition dans la vie ?",
+      "options": ["être multimiladaire" , "avoir un travail qui me permet de faire mes passions" , "monter ma boite" , "vivre à l'etranger"],
+      "answer": "avoir un travail qui me permet de faire mes passions" 
+    },
+    {
+      "id": 23,
+      "question": "Quel est mon péché mignon ?",
+      "options": ["Prince lu avec lait" , "Pain au lait nutella" , "Pain beurre confiture" , "des bonbons"],
+      "answer": "Pain au lait nutella" 
+    },
+    {
+      "id": 23,
+      "question": "Quelle est la chose que je souhaite que tu comprennes ('mieux') chez moi ?",
+      "options": ["ma fidélité" , "Mon coeur" , "la facon dont je traite les personnes" ],
+      "answer": "la facon dont je traite les personnes" 
+    },
+    {
+      "id": 24,
+      "question": "Quel est mon endroit préféré en ville ?",
+      "options": ["la boulangerie" , "les parcs" , "les magasins" , "les bars"],
+      "answer": "la boulangerie" 
+    },
+    {
+      "id": 25,
+      "question": "Quel est mon sport préféré à regarder?",
+      "options": ["le cheer" , "la natation", "la gymnastique", "le plongeon"],
+      "answer": "" 
+    },
+    {
+      "id": 25,
+      "question": "Quelle est ma plus grande source de motivation ?",
+      "options": ["être meilleur que dautres personnes" , "être meilleur que moi même" , "aider les autres"],
+      "answer": "être meilleur que dautres personnes" 
+    },
+    {
+      "id": 26,
+      "question": "Quel est le cadeau que j’ai le plus apprécié ?",
+      "options": ["les petis cadeaux que je peux garder" , "mes airpods" , "un voyage dans les iles" , "un théragun"],
+      "answer": "les petis cadeaux que je peux garder" 
+    },
+
+    {
+      "id": 27,
+      "question": "Quel est le genre de film que je n’aime pas du tout ?",
+      "options": ["drama" , "ficton", "policier", "francais" , "horreur"],
+      "answer": "horreur" 
+    },
+    {
+        "id": 30,
+        "question": "Quelle est la chose qui m’énerve le plus ?",
+        "options": ["le matin" , "être sur ton telephone" , "manger la bouche ouverte"],
+        "answer": "manger la bouche ouverte" 
+      }
+  ]
+  
